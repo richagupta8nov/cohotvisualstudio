@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>package_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>package 1</shortDescription>
+        <value>package 1</value>
+    </labels>
+    <labels>
+        <fullName>package_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>package 2</shortDescription>
+        <value>package 2</value>
+    </labels>
+</CustomLabels>
